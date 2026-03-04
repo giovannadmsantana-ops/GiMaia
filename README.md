@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
+<p align="center">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%">
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A0DAD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Giovanna+Maia;Process+%26+Quality+Engineer;Data+Science+Student;Building+data-driven+systems;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
