@@ -30,7 +30,17 @@ Currently focused on:
 
 ### Tech
 
-Python • SQL • Power BI • Excel
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+
+<img src="https://img.shields.io/badge/PowerBI-111111?style=flat&logo=powerbi&logoColor=yellow"/>
+
+<img src="https://img.shields.io/badge/Excel-111111?style=flat&logo=microsoft-excel&logoColor=green"/>
+
+</p>
 
 ---
 
@@ -38,8 +48,22 @@ Python • SQL • Power BI • Excel
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+### Current Focus
+
+- Building **data-driven decision systems**
+- Studying **Data Science & analytics**
+- Developing **automation and process optimization tools**
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:BB00FF&height=120&section=footer"/>
 </p>
