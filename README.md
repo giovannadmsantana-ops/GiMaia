@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:BB00FF&height=200&section=header&text=Giovanna%20Maia&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <p align="center">
