@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=BB00FF&center=true&vCenter=true&width=1000&lines=Giovanna+Maia;Process+%26+Quality+Engineer;Data+Science+Student"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BB00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Giovanna+Maia;Process+%26+Quality+Engineer;Data+Science+Student;Building+data-driven+systems;Welcome+to+my+GitHub)](https://git.io/typing-svg)
